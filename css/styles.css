@@ -772,8 +772,8 @@ a {
   }
   
   /* Features */
-  
-  .feature {
+
+.feature {
     gap: 4rem 2rem;
     margin: 12rem 0;
   }
